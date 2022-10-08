@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rawat</h1>
 <h3 align="center">A passionate MERN developer</h3>
 <img src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493bvmd5df65ucnhi2zg1506pp4wzzk2vyx5o1mixqpy&rid=200w.gif&ct=g" align="right" width="400" alt="..."></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=him-raw99&label=Profile%20views&color=0e75b6&style=flat" alt="him-raw99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuRawatGithub&label=Profile%20views&color=0e75b6&style=flat" alt="him-raw99" /> </p>
 
 - 🔭 I’m currently studying **Computer Science**
 
